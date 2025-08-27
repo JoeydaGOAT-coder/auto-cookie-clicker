@@ -16,4 +16,6 @@ setInterval(function () {
   }
   
 	Game.shimmers.forEach(function(shimmer) { shimmer.pop(); });
+
+	Game.clickLump();
 }, 25);
