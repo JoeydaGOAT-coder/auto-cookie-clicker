@@ -6,6 +6,7 @@ This is a repository with scirpts that automate some aspects of Cookie Clicker.
 - [goldenCookieClicker.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/goldenCookieClicker.js) will automaticcaly click golden cookies and other shimmers
 - [buildingBuyer.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/buildingBuyer.js) will automaticcaly buy buildings
 - [upgradeBuyer.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/upgradeBuyer.js) will automaticcaly buy upgrades
+- [sugarLumpCollector.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/sugarLumpCollector.js) will automatically collect sugar lumps when mature
 # how to use
 ## javascript console
 1. go to the file for one of the [availible automations](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/README.md#availible-automations) and click the "copy raw file" button
