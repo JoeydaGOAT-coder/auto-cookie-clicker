@@ -1,2 +1,3 @@
 # auto-cookie-clicker
-scripts that can play cookie clicker by itself
+This is a repository with scirpts that automate some aspects of Cookie Clicker.
+## availible automations
