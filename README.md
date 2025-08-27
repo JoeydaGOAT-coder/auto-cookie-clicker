@@ -15,4 +15,5 @@ This is a repository with scirpts that automate some aspects of Cookie Clicker.
 5. enjoy your cookie clicker automation!
 ## bookmarklet (will not work on all browsers)
 1. go to the file for one of the [availible automations](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/README.md#availible-automations) and click the "copy raw file" button
-2. make a bookmark and set the url to "javascript: (function () {<code>})" replace <code>
+2. make a bookmark and set the url to javascript: (function () {code}) replace "code" with the copied raw file
+3. go into cookie clicker,  click the bookmarklet and enjoy!
