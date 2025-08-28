@@ -36,7 +36,7 @@ setInterval(function () {
 	  }
 
 		//automatically ascends when you get at least one prestige level
-		if (((Game.cookiesEarned/1000000000000)**(1/3))**(1/2) === prestigeLevel) {
+		if (((Game.cookiesEarned/1000000000000)**(1/3))**(1/2) >= prestigeLevel) {
       Game.Ascend(true);
       prestigeLevel ++;
     }
