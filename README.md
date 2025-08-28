@@ -8,6 +8,7 @@ This is a repository with scirpts that automate some aspects of Cookie Clicker.
 - [upgradeBuyer.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/upgradeBuyer.js) will automaticcaly buy upgrades
 - [sugarLumpCollector.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/sugarLumpCollector.js) will automatically collect sugar lumps when mature
 - [autoBuildingUpgrader.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/autoBuildingUpgrader.js) will automatically upgrade buildings with sugar lumps
+- [autoAscend.js](https://github.com/JoeydaGOAT-coder/auto-cookie-clicker/blob/main/plain-scripts/autoAscend.js) will automatically ascend if when you ascend you get at least one heavenly chip
 # how to use
 ## javascript console
 1. go to the file for one of the [availible automations](#availible-automations) and click the "copy raw file" button
