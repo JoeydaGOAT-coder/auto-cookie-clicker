@@ -1,6 +1,6 @@
 let prestigeLevel = 1
 setInterval(function () {
-	if (Game.ascensionValue === 0) {
+	if (Game.ascensionMode === 0) {
 	  Game.ClickCookie();//automatically clicks the big cookie
 	
 		//automatically buys upgrades
